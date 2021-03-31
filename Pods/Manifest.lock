@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - NXDrawKit (0.8.1)
+  - SwiftPhotoGallery (3.4.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - NXDrawKit
+  - SwiftPhotoGallery
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - NXDrawKit
+    - SwiftPhotoGallery
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  NXDrawKit: 699e2862ae7c11a717e91dca37c11868a28c97b6
+  SwiftPhotoGallery: 795b79e2596beb160fb978e232603da0811006ce
+
+PODFILE CHECKSUM: f087716aca258fe7fed3423da989e19f03a9e7aa
+
+COCOAPODS: 1.10.1
