@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Bucket
-   uuid = "503D0395-623F-4C60-AD57-BBE257B5B4DD"
-   type = "1"
+   uuid = "8A67E7D2-1B68-47BC-A165-AB11EE5AC048"
+   type = "0"
    version = "2.0">
    <Breakpoints>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "FF1697B5-0FFD-4868-8D3F-67B1F99CCB4B"
-            shouldBeEnabled = "No"
+            uuid = "82ED97D0-8E77-49C3-9DF5-33AB14393E13"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Notes/Networking/APIController.swift"
+            filePath = "Notes/Notes/NotesWorker.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
-            landmarkName = "fetchNotes(callback:)"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "insertOrUpdateNotes(_:in:withDetails:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "DF38288F-7735-47E0-A519-B16626563299"
-            shouldBeEnabled = "Yes"
+            uuid = "47CA8A65-58E4-46C0-9D57-7C32A06FA32C"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Notes/Notes/ViewControllers/NotesListVc.swift"
+            filePath = "Notes+CoreDataClass.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
-            landmarkName = "navigateToDetailsSection(_:)"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "buildWithDetailUsing(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
